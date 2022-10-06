@@ -18,6 +18,9 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
+
+print("Twinkle, twinkle, little star,)
+
 &nbsp;
 &nbsp;
 &nbsp;
