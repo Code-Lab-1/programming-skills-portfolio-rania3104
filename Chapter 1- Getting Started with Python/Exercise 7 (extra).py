@@ -1,4 +1,4 @@
-#Exercise 7 (extra)
+#Exercise 7 (extra) 
 qty = 6
 total = 350
 price = 40

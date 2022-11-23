@@ -1,4 +1,4 @@
-#Exercise 9 (extra)
+#Exercise 9 (extra) - Prints the original and reversed message
 str1 = "hello world what's up"
 print("Original message:", str1)
 
