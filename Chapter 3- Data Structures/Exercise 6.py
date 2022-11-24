@@ -24,4 +24,4 @@ print("Hello",guests[1]+"! I would like to invite you to a dinner.")
 del(guests[0])
 del(guests[0])
 
-print("\n"+guests)
+print("\n",guests)
