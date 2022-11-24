@@ -1,4 +1,4 @@
-#Exercise 8 (extra)
+#Exercise 8 (extra) - Printing odd and even numbers from lists
 numbers1= [3, 6, 9, 12, 15, 18, 21]
 numbers2 = [4, 8, 12, 16, 20, 24, 28]
 result = list()
