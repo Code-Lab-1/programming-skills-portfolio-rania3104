@@ -13,3 +13,5 @@ def Average():
 
   average=((a+b+c+d+e)/5)
   print("The average is =",average)
+
+Average()
