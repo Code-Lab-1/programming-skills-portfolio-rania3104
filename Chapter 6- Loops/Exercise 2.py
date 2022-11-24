@@ -2,7 +2,7 @@
 x = "What is your age? Type 'quit' if you are done.\n"
 
 while True:
-    age = int(input(x))
+    age = input(x)
     if age == 'quit':
         break
     if age < 3:
