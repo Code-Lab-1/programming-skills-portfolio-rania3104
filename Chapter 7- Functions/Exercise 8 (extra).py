@@ -14,3 +14,5 @@ def Percentage():
   average=(total/5)
   percentage=((average/total)*100)
   print("The percentage is=",percentage,"%")
+
+Percentage()
