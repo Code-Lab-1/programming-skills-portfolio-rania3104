@@ -1,10 +1,8 @@
 #Exercise 2
-x = "What is your age? Type 'quit' if you are done.\n"
+x = "What is your age?\n"
 
 while True:
-    age = input(x)
-    if age == 'quit':
-        break
+    age = int(input(x))
     if age < 3:
         print("Your ticket is free")
     elif age < 13:
